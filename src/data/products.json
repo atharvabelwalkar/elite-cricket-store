@@ -1,0 +1,114 @@
+[
+  {
+    "id": "heritage-pro-grade-1",
+    "name": "Heritage Pro Grade 1",
+    "price": "£849.00",
+    "category": "Bats",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDhKmtvu9_sVFdvln441Z8A64rZpBcDRy_3RXIdchlorNWVxfpyTg-eTLQtKlIXRtkweM9cYvyW-C-eb7ykD4Y71lZXi5Mn0mb3qrtoTJBxXxnst9M28gHyxR4OJQytCHwb9R2UVJ2L3CBp8woY1fJklMehDcPN1THfeTTWEbQqzk0x9Uq9r92Ai0Uu0ZfZoHFfKTgeI2fvLD-EqxxQrhlpRLjtTbmBaDmGkwurf6W2GNgXbTuDwnV2EGJDzCaielLYmWiTKTZ8xEU",
+    "specs": {
+      "weight": "2lb 8oz",
+      "grade": "Grade 1+ English Willow",
+      "balance": "Mid-Low Swell",
+      "grains": "10-12 Straight Grains"
+    },
+    "description": "The pinnacle of our hand-crafted range. Selected from the top 0.1% of English Willow clefts."
+  },
+  {
+    "id": "stealth-performance",
+    "name": "Stealth Performance",
+    "price": "£725.00",
+    "category": "Bats",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCpfIpUxxRuQpVg7DfqhS4XBjRgsD8Xe1fYoD6BITbkmHU5oZLWpl2ObBndYI6H4mkahbZcFdRipk8euxV_Kh_VsYOr2DG_Txp_2H15e6qjP1OIvMlSYU85gO9C9cDIi7d7iYxUEnRJiG6JaAT1r2SFBf5-XYZa4aaKstl-ptTVpLduVHE4NLFp2WeLPrxn_ulOQ9wt9k7z_FkNAUvpKRZI1yV65lE3DnJac2IqgENDL8XTVRa7xbdY8B-VA2Au4vD8IsXnFaO5c50",
+    "specs": {
+      "weight": "2lb 9oz",
+      "grade": "Grade 1 English Willow",
+      "balance": "Mid Swell",
+      "grains": "8-10 Straight Grains"
+    },
+    "description": "Designed for the aggressive stroke player. Precision weighted for maximum bat speed."
+  },
+  {
+    "id": "classic-reserve",
+    "name": "Classic Reserve",
+    "price": "£950.00",
+    "category": "Bats",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDfS1ckNoC5xYL1x6cJ0mXEoV26ZgCVQZfQ5LqnDbyjhRxs4aiDyypgDfV7ebjKlxrZMhHlDjrXaCBKK3yq9KdU0kUuVFb3lc7GQq4KFfFF6Fz7bLObVznF4ZbzVCZmX7fzrJIYBtCUNoojalDm6WTGCMXog7GbKRJR-pxuqJ196daSTbibxSB7kX2tG6TG0CJGy_ZSsoIL_Q3oUeA7CbWE0lWAaSdAfDejgYA58NE3cKgNSi0_wKm5bcRkKvHXYeogVb9Pqkx3rRk",
+    "specs": {
+      "weight": "2lb 10oz",
+      "grade": "Reserve Grade Willow",
+      "balance": "Classic High Swell",
+      "grains": "12+ Grains"
+    },
+    "description": "A throwback to the golden age of cricket. Hand-selected for clarity and performance."
+  },
+  {
+    "id": "titanium-pro-helmet",
+    "name": "Titanium Pro Helmet",
+    "price": "£245.00",
+    "category": "Protective",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDRqCO7poIuOnw76jSysYkQ2JEmWaaHwPQkIzjwdjXeQxYdrBbAxZyppFrf4gO5iYHVbDaSNHO--avm8FdEMX1mK3m6KmMYCke0KAfCnJk0a-aC739n0u82JkRRN1rlV-4jCS30yuubZjZPc955ehMrzIz5Dqf0BQcGvkFahI5FGJLI2Q2LfZiOPdjgw6mdbxMXnrVf1NaD5_krbO6YYxpfFXKkhE-jaWGHUIU-1o-PqJyZukq3LxH34nrbkRiSJ918NX566ownQ6E",
+    "specs": {
+      "shell": "Carbon Fiber Infused",
+      "grille": "Grade 5 Titanium",
+      "weight": "740g",
+      "safety": "BS 7928:2013"
+    },
+    "description": "Ultra-lightweight protection. The choice of international top-order batsmen."
+  },
+  {
+    "id": "elite-guard-legs",
+    "name": "Elite Guard Leg Guards",
+    "price": "£120.00",
+    "category": "Protective",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&q=80&w=1000",
+    "specs": {
+      "outer": "Premium PU / Leather",
+      "padding": "High-Density Foam",
+      "straps": "Double-Sided Tows",
+      "weight": "850g per pad"
+    },
+    "description": "Maximum shock absorption with minimum weight. Features a specialized knee roll for protection."
+  },
+  {
+    "id": "signature-gloves",
+    "name": "Signature Leather Gloves",
+    "price": "£85.00",
+    "category": "Protective",
+    "image": "https://images.unsplash.com/photo-1593341606744-86c5e2bbdecbb?auto=format&fit=crop&q=80&w=1000",
+    "specs": {
+      "palm": "Pittards Premium Leather",
+      "protection": "Poron XRD Inserts",
+      "ventilation": "Air-flow Mesh Gusset",
+      "thumb": "Two-piece Protection"
+    },
+    "description": "Unrivalled feel and flexibility. Designed for all-day comfort at the crease."
+  },
+  {
+    "id": "pro-performance-spikes",
+    "name": "Pro Performance Spikes",
+    "price": "£135.00",
+    "category": "Footwear",
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAr32abXqtCk6kAecZY4MGfHoPxpheiXRhWXcWQpgdcf2KQWM3MInGwYqdU7pvbh5hRoecsQw12f9uv_7YHa1xg2PXZdnGZNjS8flbNIYZzNAHD8rOLPpz7wNMplKak65BoSZZf1o50EXf9FdZ5bvcIzuPwWduhS51VmBvtibhnNrzlZGpzMSiEE9AGjHJqv7pqu_oGQ75Op3bbyl_BOljXSPo6Q2XRfbIlNp3CahUOtT7U_Yg3iQaWjPi1cJp7gKOx_zQUWs91jFs",
+    "specs": {
+      "upper": "Technical Mesh & Synthetic",
+      "spikes": "Removable Stainless Steel",
+      "cushioning": "Responsive EVA",
+      "weight": "380g"
+    },
+    "description": "Engineered for traction and stability on any surface. Lightweight and breathable."
+  },
+  {
+    "id": "heritage-duffle",
+    "name": "Heritage Duffle Bag",
+    "price": "£110.00",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1547949003-9792a18a2601?auto=format&fit=crop&q=80&w=1000",
+    "specs": {
+      "material": "1000D Cordura Nylon",
+      "capacity": "90 Liters",
+      "pockets": "Internal Bat Sleeves",
+      "straps": "Padded Ergo-Straps"
+    },
+    "description": "Rugged, stylish, and spacious. Carries your entire kit with ease and elegance."
+  }
+]
